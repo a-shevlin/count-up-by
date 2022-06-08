@@ -13,8 +13,7 @@ $(document).ready(function(){
     event.preventDefault();
     let end = parseInt($("input#end").val());
     let countBy = parseInt($("input#countBy").val());
-    
-    countUpBy(countBy, end);
-    console.log(countArray);
+    let endArray = countUpBy(countBy, end);
+    $("#countOutput").text(endArray);
   });
 });
