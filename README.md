@@ -17,20 +17,21 @@ Describe:
 
 ## Description
 
-_This webpage allows users to submit a button. Upon submission users will see a generated list of 52 cards with "number of suit" as format._
+_This webpage allows users to submit a button. Upon submission jquery will run numbers through a script and create an array._
 
 # Setup/Installation Requirements
 
 * Clone this repository to your desktop.
-* Move to deck-of-cards folder.
+* Move to count-up-by folder.
 * Open index.html in your browser.
 
 # Known Bugs
 
-* No known bugs
+* Won't recognize function,
+* no current output
 
 ## License
 
 [MIT](/LICENSE)
 
-Copyright (c) _2022_ _Alex Shevlin and Caroline Cerussi_
+Copyright (c) _2022_ _Alex Shevlin and Alex McKnight_
